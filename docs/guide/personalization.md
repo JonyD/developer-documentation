@@ -210,7 +210,7 @@ Changing any of these parameters without a valid reason will break all calls to 
 
 !!! note "How tracking works"
 
-    In the YOOCHOOSE documentation you can find more information about [tracking in general](https://doc.ezplatform.com/projects/ezservices/en/latest/personalization/developer_guide/tracking_api/) and about the [generic asynchronous JavaScript tracker (https://doc.ezplatform.com/projects/ezservices/en/latest/personalization/developer_guide/tracking_with_yct/).
+    In the YOOCHOOSE documentation you can find more information about [tracking in general](https://doc.ezplatform.com/projects/ezservices/en/latest/personalization/developer_guide/tracking_api/) and about the [generic asynchronous JavaScript tracker] (https://doc.ezplatform.com/projects/ezservices/en/latest/personalization/developer_guide/tracking_with_yct/).
 
 ### 2. Check if the bundle provides REST data
 
